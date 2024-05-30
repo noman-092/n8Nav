@@ -1,0 +1,7 @@
+body{ padding: 55px;
+}
+form{
+    background-color: aqua;
+    border: 2px solid black;
+    text-align: center;
+}

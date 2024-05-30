@@ -1,0 +1,7 @@
+body{ padding: 55px;
+}
+form{
+    background-color: rgb(213, 85, 248);
+    border: 2px solid black;
+    text-align: center;
+}
